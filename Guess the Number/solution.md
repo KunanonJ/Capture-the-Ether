@@ -1,0 +1,1 @@
+from the hardcode line 4 uint8 answer = 42; then put in the guess

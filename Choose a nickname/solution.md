@@ -1,0 +1,1 @@
+convert fkj98 to byte32 -> 0x666b6a3938000000000000000000000000000000000000000000000000000000 via this link https://web3-type-converter.onbrn.com/
