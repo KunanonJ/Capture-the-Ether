@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "returnHash",
+				"outputs": [
+					{
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Guess the random number/GuesstherandomnumberAttacker.sol": "Attack"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Guess the random number/GuesstherandomnumberAttacker.sol": {
+			"keccak256": "0x1be311e43560abbd90ca8ff8f8efd7364bd42f88cf62e08955399fb19918412e",
+			"urls": [
+				"bzzr://85a084785d44c97569f48ddaf5bc357d027dce86f0e3986eb182596b15923adc"
+			]
+		}
+	},
+	"version": 1
+}
